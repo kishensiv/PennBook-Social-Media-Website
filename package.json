@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "async": "*",
+    "aws-sdk": "*",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "express-socket.io-session": "^1.3.5",
+    "serve-static": "^1.14.2",
+    "socket.io": "^4.4.0",
+    "stemmer": "==1.0.5"
+  }
+}
